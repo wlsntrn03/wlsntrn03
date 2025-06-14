@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h2 align="center">🚧 PROJECTS 🚧</h2>
 <br/>
 <div align="center">
-    Check out some of my recent projects!<br/><br/>
+    Check out some of my recent work!<br/><br/>
     <b>Language Tool Website:</b> https://mylangtools.vercel.app/<br/><br/>
     <b>Workout Manager:</b> https://wilsontran.vercel.app/workout.mp4<br/><br/>
     <b>Memory Card Game:</b> https://wilsontran.vercel.app/memory.mp4<br/><br/>
