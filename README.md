@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">About Me</h1>
+<h2 align="center">About Me</h2>
 
 <br/>
 
