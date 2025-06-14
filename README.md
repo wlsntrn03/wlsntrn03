@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">About Me</h1>
 
+<br/>
+
+ <p>My name is Wilson, and I am a recent Computer Science graduate from George Mason University. With a passion for software development, I am always seeking opportunities to learn new things.|Feel free to reach out!|</p>
