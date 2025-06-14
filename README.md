@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,git,github,gradle,bash,sql" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,git,github,gradle,bash" />
 </div>
