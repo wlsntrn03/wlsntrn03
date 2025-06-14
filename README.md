@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br/>
 
- <p>My name is Wilson, and I am a recent Computer Science graduate from George Mason University. With a passion for software development, I am always seeking opportunities to learn new things. Feel free to reach out!</p>
+ <p>My name is <b>Wilson</b>, and I am a recent Computer Science graduate from George Mason University. With a passion for software development, I am always seeking opportunities to learn new things. Feel free to reach out!</p>
 
 <h2 align="center">⚒️ SKILLS/TOOLS ⚒️</h2>
 <br/>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h2 align="center">🚧 PROJECTS 🚧</h2>
 <br/>
 <div align="center">
-    Feel free to check out some of my projects! <br/><br/>
+    Feel free to check out some of my projects! <br/>
     <b>Language Tool Website:</b> https://mylangtools.vercel.app/ <br/><br/>
     <b>Workout Manager:</b> https://wilsontran.vercel.app/workout.mp4 <br/><br/>
     <b>Memory Card Game:</b> https://wilsontran.vercel.app/memory.mp4 <br/><br/>
