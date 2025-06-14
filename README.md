@@ -46,3 +46,5 @@ Here are some ideas to get you started:
     🌐<b>Portfolio:</b> https://mylangtools.vercel.app/ <br/><br/>
     💼<b>Linkedin:</b> https://www.linkedin.com/in/wilson-tran-3a31a922a/ <br/><br/>
 </div>
+
+<h1> Thanks for stopping by! 👋 </h1>
