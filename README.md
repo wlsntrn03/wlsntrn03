@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 <br/>
 
+<div align="center">
  <p>My name is <b>Wilson</b>, and I am a recent Computer Science graduate from George Mason University.<br/>
   With a passion for software development, I am always seeking opportunities to learn new things.<br/>
   Feel free to reach out!</p>
+</div>
 
 <h2 align="center">⚒️ SKILLS/TOOLS ⚒️</h2>
 <br/>
