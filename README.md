@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <b>Discord Chatbot:</b> https://wilsontran.vercel.app/chatbot.mp4<br/><br/>
 </div>
 
-<h2 align="center">📧 CONTACTS 📧</h2>
+<h2 align="center">📬 CONTACTS 📬</h2>
 <br/>
 <div align="center">
     Feel free to reach out!<br/><br/>
