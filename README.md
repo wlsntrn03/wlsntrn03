@@ -15,8 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">About Me</h2>
+<h2 align="center">🙋‍♂️ ABOUT ME 🙋‍♂️</h2>
 
 <br/>
 
- <p>My name is Wilson, and I am a recent Computer Science graduate from George Mason University. With a passion for software development, I am always seeking opportunities to learn new things.|Feel free to reach out!|</p>
+ <p>My name is Wilson, and I am a recent Computer Science graduate from George Mason University. With a passion for software development, I am always seeking opportunities to learn new things. Feel free to reach out!</p>
+
+<h2 align="center">⚒️ SKILLS ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,git,github,gradle,bash,sql" />
+</div>
