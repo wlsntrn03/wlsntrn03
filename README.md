@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 <h2 align="center">🚧 PROJECTS 🚧</h2>
 <br/>
 <div align="center">
- <p> Feel free to check out some of my projects!
-    <b>Language Tool Website:</b> https://mylangtools.vercel.app/\n
-    <b>Workout Manager:</b> https://wilsontran.vercel.app/workout.mp4\n
-    <b>Memory Card Game:</b> https://wilsontran.vercel.app/memory.mp4\n
-    <b>Discord Chatbot:</b> https://wilsontran.vercel.app/chatbot.mp4\n
+    Feel free to check out some of my projects!
+    <b>Language Tool Website:</b> https://mylangtools.vercel.app/ <br/>
+    <b>Workout Manager:</b> https://wilsontran.vercel.app/workout.mp4 <br/>
+    <b>Memory Card Game:</b> https://wilsontran.vercel.app/memory.mp4 <br/>
+    <b>Discord Chatbot:</b> https://wilsontran.vercel.app/chatbot.mp4 <br/>
   </p>
 </div>
