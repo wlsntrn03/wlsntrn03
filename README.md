@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     Feel free to reach out!<br/><br/>
-    📧<b>Email:</b> wlsntrn03@gmail.com <br/><br/>
+    📧<b>Email:</b> <a href="mailto:wlsntrn03@gmail.com"> <br/><br/>
     🌐<b>Portfolio:</b> https://mylangtools.vercel.app/ <br/><br/>
     💼<b>Linkedin:</b> https://www.linkedin.com/in/wilson-tran-3a31a922a/ <br/><br/>
 </div>
