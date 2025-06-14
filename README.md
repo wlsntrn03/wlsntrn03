@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <h2 align="center">📬 CONTACTS 📬</h2>
 <br/>
 <div align="center">
-    Feel free to reach out!<br/><br/>
+    How to reach me:<br/><br/>
     📧<b>Email:</b> <a href="mailto:wlsntrn03@gmail.com">wlsntrn03@gmail.com</a> <br/><br/>
     🌐<b>Portfolio:</b> https://mylangtools.vercel.app/ <br/><br/>
     💼<b>Linkedin:</b> https://www.linkedin.com/in/wilson-tran-3a31a922a/ <br/><br/>
