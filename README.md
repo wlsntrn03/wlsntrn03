@@ -21,9 +21,19 @@ Here are some ideas to get you started:
 
  <p>My name is Wilson, and I am a recent Computer Science graduate from George Mason University. With a passion for software development, I am always seeking opportunities to learn new things. Feel free to reach out!</p>
 
-<h2 align="center">⚒️ SKILLS ⚒️</h2>
+<h2 align="center">⚒️ SKILLS/TOOLS ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css" /><br>
     <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,git,github,gradle,bash" />
+</div>
+
+<h2 align="center">🚧 PROJECTS 🚧</h2>
+<br/>
+<div align="center">
+ <p>Feel free to check out some of my projects!</p>>
+    <b>Language Tool Website:</b> https://mylangtools.vercel.app/
+    <b>Workout Manager:</b> https://wilsontran.vercel.app/workout.mp4
+    <b>Memory Card Game:</b> https://wilsontran.vercel.app/memory.mp4
+    <b>Discord Chatbot:</b> https://wilsontran.vercel.app/chatbot.mp4
 </div>
