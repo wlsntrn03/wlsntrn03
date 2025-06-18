@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <div align="center">
     How to reach me:<br/><br/>
     📧<b>Email:</b> <a href="mailto:wlsntrn03@gmail.com">wlsntrn03@gmail.com</a> <br/><br/>
-    🌐<b>Portfolio:</b> https://mylangtools.vercel.app/ <br/><br/>
+    🌐<b>Portfolio:</b> https://wilsontran.vercel.app/ <br/><br/>
     💼<b>Linkedin:</b> https://www.linkedin.com/in/wilson-tran-3a31a922a/ <br/><br/>
 </div>
 
